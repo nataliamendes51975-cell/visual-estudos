@@ -1,2 +1,1 @@
-# visual-estudos
-Site oficial da Visual Estudos, com materiais digitais para concursos públicos nas áreas da Saúde. Apostilas, mapas mentais, flashcards e revisões estratégicas, com prévias interativas.
+Visual Estudos — site estático para Vercel. Abra index.html. Cada produto possui uma prévia interativa em previa.html?produto=..., com navegação por imagens demonstrativas quando disponíveis e uma questão de revisão. As questões são extraídas/adaptadas do bônus ACS; para outros produtos são apenas demonstração geral de SUS, não do produto específico. Não exibir como simulado IBGP. Publicar pasta como projeto estático na Vercel.
